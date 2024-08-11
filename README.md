@@ -1,7 +1,3 @@
-Here's a refined README file for your banking system database project:
-
----
-
 # Banking System Database Project
 
 ## Overview
